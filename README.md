@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Languages and tools I use</h2>
+<h2 align="left">Languages and tools</h2>
 
 ###
 
