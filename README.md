@@ -1,11 +1,7 @@
 <br clear="both">
-###
-
-<h1 align="left">Hello
+<h1 align="left">Hy 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />
-</h1>
-
-###
+!</h1>
 
 <p align="left">My name is Ainur and I'm an Angular developer 🖳</p>
 
