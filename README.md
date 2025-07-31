@@ -1,7 +1,9 @@
 <br clear="both">
 ###
 
-<h1 align="left">Hello ![waving hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7zьте</h1>
+<h1 align="left">Hello
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />
+</h1>
 
 ###
 
