@@ -1,10 +1,7 @@
 <br clear="both">
-
-<img align="right" height="50" src="https://lh3.googleusercontent.com/proxy/iCTJVI_jKHHv5A-6UAtuM2IS0NmW1q8-U7fhsR8Vj7HnDli47NpRmHEFwULEHD4mhRUvmQGKiQ5-avYreqYVEiTzADPzbF84-GCkAdRs"  />
-
 ###
 
-<h1 align="left">Hello</h1>
+<h1 align="left">Hello ![waving hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7zьте</h1>
 
 ###
 
