@@ -1,1 +1,45 @@
+<br clear="both">
 
+<img align="right" height="100" src="https://lh3.googleusercontent.com/proxy/iCTJVI_jKHHv5A-6UAtuM2IS0NmW1q8-U7fhsR8Vj7HnDli47NpRmHEFwULEHD4mhRUvmQGKiQ5-avYreqYVEiTzADPzbF84-GCkAdRs"  />
+
+###
+
+<h1 align="left">Hello</h1>
+
+###
+
+<p align="left">My name is Ainur and I'm an Angular developer 🖳</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">I am a person who is constantly striving for self-improvement and always eager to learn from others as well as independently. I also understand the importance of my work and am ready to get the job done on time, even when it becomes challenging.</p>
+
+###
+
+<h2 align="left">Languages and tools I use</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
