@@ -37,3 +37,12 @@
 </div>
 
 ###
+<h2>Reach me out</h2>
+<p>Telegram: @AinurDev</p>
+<p>Gmail: bogdanovainur50@gmail.com</p>
+<p>Phone number : +7 904 189 74 30</p><br/>
+
+<p>See my resume: <a target="_blank" href="https://drive.google.com/file/d/1wZ_JBRH7D2CJtugVfzTPeU6N054WO-Xz/view">RESUME</a></>
+<p>You can see my work in pined</p>
+
+
